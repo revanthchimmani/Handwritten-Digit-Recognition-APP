@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MC Project-2 | Group 29</string>
+    <string name="my_image_description">MC_Group_29</string>
+    <string name="ip_address">http://192.168.0.151:5000/</string>
+</resources>
